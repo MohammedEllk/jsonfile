@@ -1,26 +1,14 @@
 [
-  {
-    "label": "organic",
-    "y": 36
-  },
-  {
-    "label": "Email Marketing",
-    "y": 31
-  },
-  {
-    "label": "Referrals",
-    "y": 7
-  },
-  {
-    "label": "Twitter",
-    "y": 7
-  },
-  {
-    "label": "Google",
-    "y": 8
-  },
-  {
-    "label": "Others",
-    "y": 12
-  }
+{
+  "mail": "simo@simo.com",
+  "password": "1234568"
+},
+{
+  "mail": "simo1@simo.com1",
+  "password": "1234568"
+},
+{
+  "mail": "simo2@simo.com2",
+  "password": "1234568"
+}
 ]
